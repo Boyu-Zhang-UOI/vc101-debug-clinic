@@ -1,7 +1,7 @@
 # Debug Clinic: Reading Log
 
 > [!WARNING]
-> **This app contains five planted bugs, on purpose.** It is the practice kit for the Vibe Coding 101 week 4 **Debug Clinic**. Don't use it as the starting point for a real project, and don't "fix" it with AI: the clinic is 🔴 **AI off**.
+> **This app contains five planted bugs, on purpose.** It is the practice kit for the Building Software with AI week 4 **Debug Clinic**. Don't use it as the starting point for a real project, and don't "fix" it with AI: the clinic is 🔴 **AI off**.
 
 **Reading Log** is a small web app for tracking the books you're reading: add a book, log the pages you read in each session, filter by Reading or Finished, and delete books. Everything is saved in your browser with localStorage.
 
