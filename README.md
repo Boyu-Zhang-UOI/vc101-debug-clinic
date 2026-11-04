@@ -1,7 +1,7 @@
 # Debug Clinic: Reading Log
 
 > [!WARNING]
-> **This app contains five planted bugs, on purpose.** It is the practice kit for the Building Software with AI week 4 **Debug Clinic**. Don't use it as the starting point for a real project, and don't "fix" it with AI: the clinic is 🔴 **AI off**.
+> **This app contains five planted bugs, on purpose.** It is the practice kit for the Building Apps with AI week 7 **Debug Clinic**. Don't use it as the starting point for a real project, and don't "fix" it with AI: the clinic is 🔴 **AI off**.
 
 **Reading Log** is a small web app for tracking the books you're reading: add a book, log the pages you read in each session, filter by Reading or Finished, and delete books. Everything is saved in your browser with localStorage.
 
@@ -40,8 +40,8 @@ To stop the server, click in the terminal and press Ctrl+C.
 2. **Pairs.** The **driver** types. The **navigator** reads the code, asks questions and keeps the bug notes. Swap roles after every bug.
 3. **In order.** Fix bug 1 first. Each bug hides behind the one before it.
 4. **Small fixes.** Every bug can be fixed by changing one or two lines. Don't rewrite functions, and don't delete features.
-5. **You may use:** DevTools, reading the code, MDN Web Docs (<https://developer.mozilla.org>), the course [glossary](https://boyu-zhang-uoi.github.io/Vibe_Coding_101/resources/glossary.html) and [web basics](https://boyu-zhang-uoi.github.io/Vibe_Coding_101/resources/web-basics.html) pages, the [hint cards](hint-cards.md), and your instructor.
-6. **Stuck for 10 minutes on the same bug?** Take a hint card. Still stuck? You may use 🟡 **AI limited: tutor mode**. Open your chat assistant in a new tab, paste the tutor prompt from the course's [tutor mode page](https://boyu-zhang-uoi.github.io/Vibe_Coding_101/resources/tutor-mode.html), then describe the bug, paste the error message and the function you're looking at. The tutor gives hints, not fixes.
+5. **You may use:** DevTools, reading the code, MDN Web Docs (<https://developer.mozilla.org>), the course [glossary](https://boyu-zhang-uoi.github.io/building-apps-with-ai/resources/glossary.html) and [web basics](https://boyu-zhang-uoi.github.io/building-apps-with-ai/resources/web-basics.html) pages, the [hint cards](hint-cards.md), and your instructor.
+6. **Stuck for 10 minutes on the same bug?** Take a hint card. Still stuck? You may use 🟡 **AI limited: tutor mode**. Open your chat assistant in a new tab, paste the tutor prompt from the course's [tutor mode page](https://boyu-zhang-uoi.github.io/building-apps-with-ai/resources/tutor-mode.html), then describe the bug, paste the error message and the function you're looking at. The tutor gives hints, not fixes.
 7. **Claim and commit.** When a bug is fixed, write its claim in `BUGS.md` (format below), show your instructor or TA if they're collecting claims, then commit, for example: `Fix bug 1: [what you changed]`.
 
 ## Scoring: the bug bounty
